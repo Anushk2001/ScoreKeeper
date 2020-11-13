@@ -1,0 +1,18 @@
+body{
+    background-color:#46e21f;
+}
+.winner{
+    color: green;
+}
+.looser{
+    color: red;
+}
+.card-header-title{
+    color: crimson;
+}
+#PlayingTo{
+    color:  rgb(11, 83, 218);
+}
+.subtitle{
+    color: rgb(247, 9, 167);
+}
